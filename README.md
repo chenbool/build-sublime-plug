@@ -2,6 +2,18 @@
 
 用于生成 Sublime Text 语法提示插件的工具，支持 PHP 和 Python。
 
+## QQ群
+
+QQ群：484043598
+
+
+## 演示截图
+
+| 演示 |
+|------|
+| ![演示](./demo.png) |
+
+
 ## 功能特性
 
 - 生成 Sublime Text 代码片段（Snippets）
@@ -105,9 +117,3 @@ plug.build('print', 'print()', '打印输出', 'source.python')
 ## 依赖
 
 - PHP 5.6+ 或 Python 3.6+
-
-## 演示截图
-
-| 演示 |
-|------|
-| ![演示](./demo.png) |
